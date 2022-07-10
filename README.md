@@ -5,3 +5,7 @@
  for use as a network address in communications within a 
  network segment.
 
+ HELP 
+
+ -i, --interface, help="Interface to change its MAC address"
+ -m, --mac, help="New MAC address"
