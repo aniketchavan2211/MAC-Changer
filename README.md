@@ -75,6 +75,20 @@
  ```function_name(values,values)```
 ### Decision Making 
 
+ ```
+ if condition1:
+   # Code to execute when
+   # Condition 1 is true
+ elif condition2:
+   # Code to execute when
+   # Condition 2 is true AND
+   # Condition 1 is false
+ else:
+   # Code to execute when
+   # All conditions are false
+ # Rest of Code
+ ```
+
 
 
 
