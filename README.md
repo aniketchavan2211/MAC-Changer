@@ -39,6 +39,45 @@
  ```
  2
  ```
+
+### Handling User Input
+
+ - Easiest way of getting user input is through
+ keyboard.
+ - There are a number of ways to achieve that
+ - input() function prompts the user to enter
+ a value.
+
+ Examples:     
+ `age = input ("What is your age")`
+ Result 
+ ```
+ What is your age
+ ```
+ The variable age will hold the value of the 
+ user input.
+
+### Function
+
+ - Set of instructions to carry out a task.
+ - Can take input, and return result.
+ - Make the code cleaner, reusable, and more
+ abstract.
+ - input() function prompts the user to enter
+ a value.
+
+ Examples:     
+ We can define a function like so:
+ ```
+ def function_name (variable1, variable2...)
+ ```
+ And call it in code like so:
+ ```function_name(values,values)```
+### Decision Making 
+
+
+
+
 ## Help
 
  `-i`, `--interface`, help="Interface to change its MAC address"
