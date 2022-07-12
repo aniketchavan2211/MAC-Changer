@@ -74,7 +74,8 @@
  And call it in code like so:
  ```function_name(values,values)```
 ### Decision Making 
-
+ 
+ Execute code `ONLY` if a condition is true
  ```
  if condition1:
    # Code to execute when
@@ -88,9 +89,6 @@
    # All conditions are false
  # Rest of Code
  ```
-
-
-
 
 ## Help
 
