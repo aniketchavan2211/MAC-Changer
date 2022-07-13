@@ -90,6 +90,21 @@
  # Rest of Code
  ```
 
+### Simple Algorithm
+ Goal -> Check if MAC address was changed
+ 
+ steps :
+
+ 1. Execute and Read ifconfig.
+ 2. Read the mac address from output.
+ 3. Check if MAC in ifconfig is what the user requested.
+ 4. Print appropriate message.
+
+### Regular Expression (Regex)
+
+ - Search for specific patterns within in a string.
+ - Uses rules to match patterns.
+
 ## Help
 
  `-i`, `--interface`, help="Interface to change its MAC address"
