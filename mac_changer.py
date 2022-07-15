@@ -1,4 +1,4 @@
-ex#!/bin/python
+#!/bin/python
 
 import subprocess
 import optparse
